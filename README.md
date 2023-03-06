@@ -1,1 +1,1 @@
-"# sql-basics-for-data-analytics" 
+# SQL Tutorials
