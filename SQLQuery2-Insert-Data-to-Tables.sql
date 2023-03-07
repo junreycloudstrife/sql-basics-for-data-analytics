@@ -1,22 +1,26 @@
+/*
 --Insert the first data to EmployeeDemograpics table
---INSERT INTO EmployeeDemographics VALUES
---(1001, 'Jim', 'Halpert', 30, 'Male')
+INSERT INTO EmployeeDemographics VALUES
+(1001, 'Jim', 'Halpert', 30, 'Male')
+
 
 --Insert additional data to EmployeeDemograpics table
---INSERT INTO EmployeeDemographics VALUES
---(1002, 'Pam', 'Beasley', 30, 'Female'),
---(1003, 'Dwight', 'Schrute', 29, 'Male'),
---(1004, 'Angela', 'Martin', 31, 'Female'),
---(1005, 'Toby', 'Flenderson', 32, 'Male'),
---(1006, 'Michael', 'Scott', 35, 'Male'),
---(1007, 'Meredith', 'Palmer', 32, 'Female'),
---(1008, 'Stanley', 'Hudson', 38, 'Male'),
---(1009, 'Kevin', 'Malone', 31, 'Male')
+INSERT INTO EmployeeDemographics VALUES
+(1002, 'Pam', 'Beasley', 30, 'Female'),
+(1003, 'Dwight', 'Schrute', 29, 'Male'),
+(1004, 'Angela', 'Martin', 31, 'Female'),
+(1005, 'Toby', 'Flenderson', 32, 'Male'),
+(1006, 'Michael', 'Scott', 35, 'Male'),
+(1007, 'Meredith', 'Palmer', 32, 'Female'),
+(1008, 'Stanley', 'Hudson', 38, 'Male'),
+(1009, 'Kevin', 'Malone', 31, 'Male')
+
 
 --Insert first data to EmployeeSalary table
---INSERT INTO EmployeeSalary VALUES
---(1001, 'Salesman', 45000)
+INSERT INTO EmployeeSalary VALUES
+(1001, 'Salesman', 45000)
 
+*/
 --Insert additional data to EmployeeSalary table
 INSERT INTO EmployeeSalary VALUES
 (1002, 'Receptionist', 36000),
