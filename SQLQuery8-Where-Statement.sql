@@ -3,7 +3,7 @@ Where statement
 =, <>, <, >, And, Or, Like, Null. Not Null, In
 */
 
-/*
+
 --Display the row where FirstName is 'Jim'
 SELECT *
 FROM EmployeeDemographics
@@ -90,7 +90,7 @@ WHERE LastName is NULL --nothing is displayed
 SELECT *
 FROM EmployeeDemographics
 WHERE LastName is NOT NULL --all is displayed
-*/
+
 
 --Display the rows where FirstName is 'Jim' and 'Michael'
 SELECT *

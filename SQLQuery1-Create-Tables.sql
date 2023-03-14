@@ -1,4 +1,3 @@
-/*
 --Create EmployeeDemographics table
 CREATE TABLE EmployeeDemographics
 (EmployeeID int,
@@ -7,7 +6,7 @@ LastName varchar(50),
 Age int,
 Gender varchar(50)
 )
-*/
+
 
 --Create EmployeeSalary table
 CREATE TABLE EmployeeSalary

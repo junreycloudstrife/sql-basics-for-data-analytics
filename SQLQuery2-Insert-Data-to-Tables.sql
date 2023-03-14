@@ -1,4 +1,4 @@
-/*
+
 --Insert the first data to EmployeeDemograpics table
 INSERT INTO EmployeeDemographics VALUES
 (1001, 'Jim', 'Halpert', 30, 'Male')
@@ -20,7 +20,7 @@ INSERT INTO EmployeeDemographics VALUES
 INSERT INTO EmployeeSalary VALUES
 (1001, 'Salesman', 45000)
 
-*/
+
 --Insert additional data to EmployeeSalary table
 INSERT INTO EmployeeSalary VALUES
 (1002, 'Receptionist', 36000),

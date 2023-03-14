@@ -3,7 +3,7 @@ Select Statement
 *, Top, Distinct, Count, As, Max, Min, Avg
 */
 
-/*
+
 --Display all columns and rows
 SELECT *
 FROM EmployeeDemographics
@@ -52,7 +52,7 @@ FROM EmployeeSalary
 --Display minimum salary from EmployeeSalary table
 SELECT MIN(Salary) AS MinSalary
 FROM EmployeeSalary
-*/
+
 
 --Display average salary from EmployeeSalary table
 SELECT AVG(Salary) AS AvgSalary
